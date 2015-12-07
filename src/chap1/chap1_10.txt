@@ -1,0 +1,12 @@
+def take(n: Int): WrappedString
+    Selects first n elements.
+
+def takeRight(n: Int): WrappedString
+    Selects last n elements.
+
+def drop(n: Int): WrappedString
+    Selects all elements except first n ones.
+
+def dropRight(n: Int): WrappedString
+    Selects all elements except last n ones.
+
