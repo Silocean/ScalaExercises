@@ -1,0 +1,13 @@
+scala> 10 max 2
+res7: Int = 10
+
+scala> 3 max 8
+res8: Int = 8
+
+所以max的含义是返回两者中的较大的那个
+
+--------------------------------------------------------
+方法在RichInt类中:
+
+def max(that: Int): Int
+    Returns this if this > that or that otherwise
