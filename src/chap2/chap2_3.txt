@@ -1,0 +1,13 @@
+/**
+  * Created by Silocean on 2015-12-07.
+  * 指出在Scala中何种情况下复制鱼鱼x = y = 1是而合法的。（提示：给x找个合适的类型定义。）
+  */
+
+scala> var x = {}
+x: Unit = ()
+
+scala> var y = 9
+y: Int = 9
+
+scala> x = y = 23
+x: Unit = ()
