@@ -3,14 +3,11 @@
  */
 object Test {
     def main(args: Array[String]) {
-        val a = Array(1, 2, 3, 4, 5)
-        val b = dealWithArray(Array(1, 2, 3, 4, 5))
-        println(b.mkString(","))
-        println(a.mkString(","))
+        val map = Map("apple" -> 3.5, "phone" -> 1500.0, "book" -> 65.0)
+        for ((k, v) <- map) {
+            println(map(k) + 34)
+        }
     }
 
-    def dealWithArray(arr: Array[Int]) = {
-        arr(0) = 9
-        arr
-    }
+
 }
