@@ -4,7 +4,7 @@ package chap5
  * Created by Tracy on 2015-12-08.
  */
 object chap5_1 {
-    def main(args: Array[String]) {
+    def main(args: Array[String]): Unit = {
 
     }
 
