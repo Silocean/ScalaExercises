@@ -1,4 +1,4 @@
-package chap6_5
+package chap6.chap6_5
 
 /**
  * Created by Tracy on 2015-12-09.
