@@ -2,6 +2,29 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="69908838-a0aa-4815-a861-a7c5066eccb8" name="Default" comment="">
+      <change type="DELETED" beforePath="F:\AllKindsOfWorkplace\IntellijIDEAWorkplace\ScalaForTheImpatientLearning\out\production\ScalaForThePatientLearning\chap1\Test$.class" afterPath="" />
+      <change type="DELETED" beforePath="F:\AllKindsOfWorkplace\IntellijIDEAWorkplace\ScalaForTheImpatientLearning\out\production\ScalaForThePatientLearning\chap1\Test.class" afterPath="" />
+      <change type="DELETED" beforePath="F:\AllKindsOfWorkplace\IntellijIDEAWorkplace\ScalaForTheImpatientLearning\out\production\ScalaForThePatientLearning\chap2\chap2_1$.class" afterPath="" />
+      <change type="DELETED" beforePath="F:\AllKindsOfWorkplace\IntellijIDEAWorkplace\ScalaForTheImpatientLearning\out\production\ScalaForThePatientLearning\chap2\chap2_1.class" afterPath="" />
+      <change type="DELETED" beforePath="F:\AllKindsOfWorkplace\IntellijIDEAWorkplace\ScalaForTheImpatientLearning\out\production\ScalaForThePatientLearning\chap2\chap2_10$.class" afterPath="" />
+      <change type="DELETED" beforePath="F:\AllKindsOfWorkplace\IntellijIDEAWorkplace\ScalaForTheImpatientLearning\out\production\ScalaForThePatientLearning\chap2\chap2_10.class" afterPath="" />
+      <change type="DELETED" beforePath="F:\AllKindsOfWorkplace\IntellijIDEAWorkplace\ScalaForTheImpatientLearning\out\production\ScalaForThePatientLearning\chap2\chap2_4$$anonfun$main$1.class" afterPath="" />
+      <change type="DELETED" beforePath="F:\AllKindsOfWorkplace\IntellijIDEAWorkplace\ScalaForTheImpatientLearning\out\production\ScalaForThePatientLearning\chap2\chap2_4$.class" afterPath="" />
+      <change type="DELETED" beforePath="F:\AllKindsOfWorkplace\IntellijIDEAWorkplace\ScalaForTheImpatientLearning\out\production\ScalaForThePatientLearning\chap2\chap2_4.class" afterPath="" />
+      <change type="DELETED" beforePath="F:\AllKindsOfWorkplace\IntellijIDEAWorkplace\ScalaForTheImpatientLearning\out\production\ScalaForThePatientLearning\chap2\chap2_5$$anonfun$countdown$1.class" afterPath="" />
+      <change type="DELETED" beforePath="F:\AllKindsOfWorkplace\IntellijIDEAWorkplace\ScalaForTheImpatientLearning\out\production\ScalaForThePatientLearning\chap2\chap2_5$.class" afterPath="" />
+      <change type="DELETED" beforePath="F:\AllKindsOfWorkplace\IntellijIDEAWorkplace\ScalaForTheImpatientLearning\out\production\ScalaForThePatientLearning\chap2\chap2_5.class" afterPath="" />
+      <change type="DELETED" beforePath="F:\AllKindsOfWorkplace\IntellijIDEAWorkplace\ScalaForTheImpatientLearning\out\production\ScalaForThePatientLearning\chap2\chap2_6$$anonfun$main$1.class" afterPath="" />
+      <change type="DELETED" beforePath="F:\AllKindsOfWorkplace\IntellijIDEAWorkplace\ScalaForTheImpatientLearning\out\production\ScalaForThePatientLearning\chap2\chap2_6$.class" afterPath="" />
+      <change type="DELETED" beforePath="F:\AllKindsOfWorkplace\IntellijIDEAWorkplace\ScalaForTheImpatientLearning\out\production\ScalaForThePatientLearning\chap2\chap2_6.class" afterPath="" />
+      <change type="DELETED" beforePath="F:\AllKindsOfWorkplace\IntellijIDEAWorkplace\ScalaForTheImpatientLearning\out\production\ScalaForThePatientLearning\chap2\chap2_7$$anonfun$main$1.class" afterPath="" />
+      <change type="DELETED" beforePath="F:\AllKindsOfWorkplace\IntellijIDEAWorkplace\ScalaForTheImpatientLearning\out\production\ScalaForThePatientLearning\chap2\chap2_7$.class" afterPath="" />
+      <change type="DELETED" beforePath="F:\AllKindsOfWorkplace\IntellijIDEAWorkplace\ScalaForTheImpatientLearning\out\production\ScalaForThePatientLearning\chap2\chap2_7.class" afterPath="" />
+      <change type="DELETED" beforePath="F:\AllKindsOfWorkplace\IntellijIDEAWorkplace\ScalaForTheImpatientLearning\out\production\ScalaForThePatientLearning\chap2\chap2_8$$anonfun$product$1.class" afterPath="" />
+      <change type="DELETED" beforePath="F:\AllKindsOfWorkplace\IntellijIDEAWorkplace\ScalaForTheImpatientLearning\out\production\ScalaForThePatientLearning\chap2\chap2_8$.class" afterPath="" />
+      <change type="DELETED" beforePath="F:\AllKindsOfWorkplace\IntellijIDEAWorkplace\ScalaForTheImpatientLearning\out\production\ScalaForThePatientLearning\chap2\chap2_8.class" afterPath="" />
+      <change type="DELETED" beforePath="F:\AllKindsOfWorkplace\IntellijIDEAWorkplace\ScalaForTheImpatientLearning\out\production\ScalaForThePatientLearning\chap2\chap2_9$.class" afterPath="" />
+      <change type="DELETED" beforePath="F:\AllKindsOfWorkplace\IntellijIDEAWorkplace\ScalaForTheImpatientLearning\out\production\ScalaForThePatientLearning\chap2\chap2_9.class" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="ScalaForThePatientLearning.iws" />
@@ -173,28 +196,6 @@
             <PATH_ELEMENT>
               <option name="myItemId" value="ScalaForThePatientLearning" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ScalaForTheImpatientLearning" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ScalaForThePatientLearning" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ScalaForTheImpatientLearning" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="out" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="production" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="ScalaForTheImpatientLearning" />
@@ -869,7 +870,13 @@
       <option name="project" value="LOCAL" />
       <updated>1449724494547</updated>
     </task>
-    <option name="localTasksCounter" value="45" />
+    <task id="LOCAL-00045" summary="delete">
+      <created>1449750609483</created>
+      <option name="number" value="00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1449750609483</updated>
+    </task>
+    <option name="localTasksCounter" value="46" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -913,7 +920,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="finish chap4_9" />
     <MESSAGE value="update chap4_8" />
     <MESSAGE value="update chap4_10" />
     <MESSAGE value="update chap5_2" />
@@ -938,7 +944,8 @@
     <MESSAGE value="finish chap9_9" />
     <MESSAGE value="finish chap9_10" />
     <MESSAGE value="update" />
-    <option name="LAST_COMMIT_MESSAGE" value="update" />
+    <MESSAGE value="delete" />
+    <option name="LAST_COMMIT_MESSAGE" value="delete" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
