@@ -1,8 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/src/chap8/chap8_6/Shape.scala" line="6" mnemonic="9" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="69908838-a0aa-4815-a861-a7c5066eccb8" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ScalaForTheImpatientLearning.iml" afterPath="$PROJECT_DIR$/ScalaForTheImpatientLearning.iml" />
     </list>
     <ignored path="ScalaForThePatientLearning.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -16,39 +20,19 @@
   </component>
   <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
   <component name="CreatePatchCommitExecutor">
-    <option name="PATCH_PATH" value="F:\AllKindsOfWorkplace\IntellijIDEAWorkplace\ScalaForTheImpatientLearning" />
+    <option name="PATCH_PATH" value="" />
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FavoritesManager">
     <favorites_list name="ScalaForThePatientLearning" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="chap9_10.scala" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/chap9/chap9_10/chap9_10.scala">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="8" column="35" selection-start-line="8" selection-start-column="35" selection-end-line="8" selection-end-column="35" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Person.scala" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/chap9/chap9_10/Person.scala">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.5831904">
-              <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="package-info" />
         <option value="Package Object" />
       </list>
     </option>
@@ -64,78 +48,65 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/chap3/chap3_5.scala" />
-        <option value="$PROJECT_DIR$/src/chap3/chap3_6.scala" />
-        <option value="$PROJECT_DIR$/src/chap3/chap3_7.scala" />
-        <option value="$PROJECT_DIR$/src/chap3/chap3_9.scala" />
-        <option value="$PROJECT_DIR$/src/chap3/chap3_10.scala" />
-        <option value="$PROJECT_DIR$/src/chap3/chap3_3.scala" />
-        <option value="$PROJECT_DIR$/src/chap3/chap3_8.scala" />
-        <option value="$PROJECT_DIR$/src/chap4/chap4_1.scala" />
-        <option value="$PROJECT_DIR$/src/chap4/words.txt" />
-        <option value="$PROJECT_DIR$/src/chap4/chap4_2.scala" />
-        <option value="$PROJECT_DIR$/src/chap4/chap4_3.scala" />
-        <option value="$PROJECT_DIR$/src/chap4/chap4_4.scala" />
-        <option value="$PROJECT_DIR$/src/chap4/chap4_6.scala" />
-        <option value="$PROJECT_DIR$/src/chap4/chap4_5.scala" />
-        <option value="$PROJECT_DIR$/src/chap4/chap4_7.scala" />
-        <option value="$PROJECT_DIR$/src/chap4/chap4_9.scala" />
-        <option value="$PROJECT_DIR$/src/chap4/chap4_8.scala" />
-        <option value="$PROJECT_DIR$/src/chap4/chap4_10.scala" />
-        <option value="$PROJECT_DIR$/src/chap5/chap5_2.scala" />
-        <option value="$PROJECT_DIR$/src/chap5/chap5_1.scala" />
+        <option value="$PROJECT_DIR$/src/chap2/chap2_5.scala" />
+        <option value="$PROJECT_DIR$/src/chap2/chap2_6.scala" />
+        <option value="$PROJECT_DIR$/src/chap2/chap2_7.scala" />
+        <option value="$PROJECT_DIR$/src/chap2/chap2_8.scala" />
+        <option value="$PROJECT_DIR$/src/chap2/chap2_9.scala" />
+        <option value="$PROJECT_DIR$/src/chap2/chap2_10.scala" />
+        <option value="$PROJECT_DIR$/src/chap1/Test.scala" />
+        <option value="$PROJECT_DIR$/src/chap1/chap1_1.txt" />
+        <option value="$PROJECT_DIR$/src/chap1/chap1_2.txt" />
+        <option value="$PROJECT_DIR$/src/chap1/chap1_3.txt" />
+        <option value="$PROJECT_DIR$/src/chap1/chap1_4.txt" />
+        <option value="$PROJECT_DIR$/src/chap1/chap1_5.txt" />
+        <option value="$PROJECT_DIR$/src/chap1/chap1_6.txt" />
+        <option value="$PROJECT_DIR$/src/chap1/chap1_7.txt" />
+        <option value="$PROJECT_DIR$/src/chap1/chap1_8.txt" />
+        <option value="$PROJECT_DIR$/src/chap1/chap1_9.txt" />
+        <option value="$PROJECT_DIR$/src/chap1/chap1_10.txt" />
+        <option value="$PROJECT_DIR$/src/chap2/chap2_2.txt" />
+        <option value="$PROJECT_DIR$/src/chap2/chap2_3.txt" />
+        <option value="$PROJECT_DIR$/src/chap3/chap3_1.scala" />
+        <option value="$PROJECT_DIR$/src/chap8/BankAccount.scala" />
+        <option value="$PROJECT_DIR$/src/chap8/chap8/chap6_1/Conversions.scala" />
+        <option value="$PROJECT_DIR$/src/chap8/chap8_2/BankAccount.scala" />
+        <option value="$PROJECT_DIR$/src/chap8/chap8_1/CheckingAccount.scala" />
+        <option value="$PROJECT_DIR$/src/chap8/chap8_2/SavingAccount.scala" />
+        <option value="$PROJECT_DIR$/src/chap8/chap8_4/SimpleItem.scala" />
+        <option value="$PROJECT_DIR$/src/chap8/chap8_4/Bundle.scala" />
+        <option value="$PROJECT_DIR$/src/chap8/chap8_4/Item.scala" />
+        <option value="$PROJECT_DIR$/src/chap8/chap8_5/Point.scala" />
+        <option value="$PROJECT_DIR$/src/chap8/chap8_5/LabeledPoint.scala" />
+        <option value="$PROJECT_DIR$/src/chap8/chap8_5/Start.scala" />
+        <option value="$PROJECT_DIR$/src/chap8/chap8_6/Point.scala" />
+        <option value="$PROJECT_DIR$/src/chap8/chap8_6/Shape.scala" />
+        <option value="$PROJECT_DIR$/src/chap8/chap8_6/Rectangle.scala" />
+        <option value="$PROJECT_DIR$/src/chap8/chap8_6/Circle.scala" />
+        <option value="$PROJECT_DIR$/src/chap8/chap8_7/Square.scala" />
+        <option value="$PROJECT_DIR$/src/chap8/chap8_7/Start.scala" />
+        <option value="$PROJECT_DIR$/src/chap8/chap8_8/Person.scala" />
+        <option value="$PROJECT_DIR$/src/chap8/chap8_8/SecretAgent.scala" />
+        <option value="$PROJECT_DIR$/src/chap8/chap8_8/Command.txt" />
+        <option value="$PROJECT_DIR$/src/chap8/chap8_1/BankAccount.scala" />
         <option value="$PROJECT_DIR$/src/Test.scala" />
-        <option value="$PROJECT_DIR$/src/Person.scala" />
-        <option value="$PROJECT_DIR$/src/chap5/chap5_3.scala" />
-        <option value="$PROJECT_DIR$/src/chap5/chap5_4.scala" />
-        <option value="$PROJECT_DIR$/src/chap5/chap5_6.scala" />
-        <option value="$PROJECT_DIR$/src/chap5/chap5_7.scala" />
-        <option value="$PROJECT_DIR$/src/chap5/chap5_8.scala" />
-        <option value="$PROJECT_DIR$/src/chap5/chap5_10.scala" />
-        <option value="$PROJECT_DIR$/src/chap6/chap6_1.scala" />
-        <option value="$PROJECT_DIR$/src/chap6/chap6_1/chap6_1.scala" />
-        <option value="$PROJECT_DIR$/src/chap6/chap6_1/chap6_2/UnitConversion.scala" />
-        <option value="$PROJECT_DIR$/src/chap6/chap6_1/Conversions.scala" />
-        <option value="$PROJECT_DIR$/src/chap6/chap6_2/Conversions.scala" />
-        <option value="$PROJECT_DIR$/src/chap6/chap6_2/UnitConversion.scala" />
-        <option value="$PROJECT_DIR$/src/chap6/chap6_2/InchesConversions.scala" />
-        <option value="$PROJECT_DIR$/src/chap6/chap6_2/GallonsConversions.scala" />
-        <option value="$PROJECT_DIR$/src/chap6/chap6_2/MilesConversions.scala" />
-        <option value="$PROJECT_DIR$/src/chap6/chap6_3/Origin.scala" />
-        <option value="$PROJECT_DIR$/src/chap6/chap6_4/Point.scala" />
-        <option value="$PROJECT_DIR$/src/chap6_5/PrintArgs.scala" />
-        <option value="$PROJECT_DIR$/src/chap6/chap6_6/Poker.scala" />
-        <option value="$PROJECT_DIR$/src/chap6/chap6_7/Poker.scala" />
-        <option value="$PROJECT_DIR$/src/chap6/chap6_8/RGB.scala" />
-        <option value="$PROJECT_DIR$/README.md" />
-        <option value="$PROJECT_DIR$/src/chap9/chap9_7/source.txt" />
-        <option value="$PROJECT_DIR$/src/chap9/chap9_7/chap9_7.scala" />
+        <option value="$PROJECT_DIR$/src/TestShellWithScala.scala" />
         <option value="$PROJECT_DIR$/src/RegexScala.scala" />
-        <option value="$PROJECT_DIR$/src/chap9/chap9_8/chap9_8.scala" />
-        <option value="$PROJECT_DIR$/src/chap9/chap9_9/chap9_9.scala" />
-        <option value="$PROJECT_DIR$/src/chap9/chap9_10/Person.scala" />
-        <option value="$PROJECT_DIR$/src/chap9/chap9_10/chap9_10.scala" />
+        <option value="$PROJECT_DIR$/src/chap11/chap11_3/Fraction.scala" />
+        <option value="$PROJECT_DIR$/src/chap11/chap11_3/Test.scala" />
+        <option value="$PROJECT_DIR$/src/chap11/chap11_4/Money.scala" />
+        <option value="$PROJECT_DIR$/src/chap11/chap11_4/Test.scala" />
+        <option value="$PROJECT_DIR$/src/chap11/chap11_5/ConstructTable.scala" />
+        <option value="$PROJECT_DIR$/src/chap11/chap11_5/Table.scala" />
+        <option value="$PROJECT_DIR$/src/chap11/chap11_5/Test.scala" />
       </list>
     </option>
-  </component>
-  <component name="MavenImportPreferences">
-    <option name="generalSettings">
-      <MavenGeneralSettings>
-        <option name="mavenHome" value="Bundled (Maven 3)" />
-      </MavenGeneralSettings>
-    </option>
-  </component>
-  <component name="MavenProjectNavigator">
-    <treeState />
-  </component>
-  <component name="NamedScopeManager">
-    <order />
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
-    <option name="width" value="1382" />
-    <option name="height" value="744" />
+    <option name="width" value="1696" />
+    <option name="height" value="1026" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -158,17 +129,21 @@
       <autoscrollToSource />
       <autoscrollFromSource />
       <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
             <PATH_ELEMENT>
               <option name="myItemId" value="ScalaForThePatientLearning" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="External Libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
@@ -195,48 +170,65 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ScalaForThePatientLearning" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ScalaForTheImpatientLearning" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="chap11" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Scala" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
-    <property name="project.structure.last.edited" value="Project" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="project.structure.last.edited" value="Global Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="recentsLimit" value="5" />
-    <property name="dynamic.classpath" value="false" />
-    <property name="FullScreen" value="false" />
-    <property name="restartRequiresConfirmation" value="true" />
-    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth0" value="99" />
-    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder0" value="0" />
-    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth1" value="129" />
-    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder1" value="1" />
-    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth2" value="129" />
-    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder2" value="2" />
-    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth3" value="922" />
-    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder3" value="3" />
-    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth0" value="117" />
-    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder0" value="0" />
-    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth1" value="123" />
-    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder1" value="1" />
-    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth2" value="123" />
-    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder2" value="2" />
-    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth3" value="916" />
-    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder3" value="3" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="chap8.chap8_6" />
+      <recent name="chap8.chap8_2" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\IntellijWorkplace\ScalaForTheImpatientLearning\src\chap8" />
+      <recent name="D:\IntellijWorkplace\ScalaForTheImpatientLearning\src\chap6" />
       <recent name="D:\IntellijWorkplace\ScalaForTheImpatientLearning\src\chap1" />
     </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="chap6.chap6_7" />
-      <recent name="chap6.chap6_1" />
-    </key>
   </component>
-  <component name="RunManager" selected="Application.chap9_10">
+  <component name="RunManager" selected="Application.Test (3)">
+    <configuration default="false" name="TestShellWithScala" type="Application" factoryName="Application" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="TestShellWithScala" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="ScalaForTheImpatientLearning" />
+      <envs />
+      <method />
+    </configuration>
     <configuration default="false" name="RegexScala" type="Application" factoryName="Application" temporary="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" value="RegexScala" />
@@ -252,14 +244,14 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="chap9_8" type="Application" factoryName="Application" temporary="true">
+    <configuration default="false" name="Test (1)" type="Application" factoryName="Application" temporary="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="chap9.chap9_8.*" />
+          <option name="PATTERN" value="chap11.chap11_3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="chap9.chap9_8.chap9_8" />
+      <option name="MAIN_CLASS_NAME" value="chap11.chap11_3.Test" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -272,14 +264,14 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="chap9_9" type="Application" factoryName="Application" temporary="true">
+    <configuration default="false" name="Test (2)" type="Application" factoryName="Application" temporary="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="chap9.chap9_9.*" />
+          <option name="PATTERN" value="chap11.chap11_4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="chap9.chap9_9.chap9_9" />
+      <option name="MAIN_CLASS_NAME" value="chap11.chap11_4.Test" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -292,14 +284,14 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="chap9_10" type="Application" factoryName="Application" temporary="true">
+    <configuration default="false" name="Test (3)" type="Application" factoryName="Application" temporary="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="chap9.chap9_10.*" />
+          <option name="PATTERN" value="chap11.chap11_5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="chap9.chap9_10.chap9_10" />
+      <option name="MAIN_CLASS_NAME" value="chap11.chap11_5.Test" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -310,13 +302,6 @@
       <option name="PASS_PARENT_ENVS" value="true" />
       <module name="ScalaForTheImpatientLearning" />
       <envs />
-      <method />
-    </configuration>
-    <configuration default="false" name="Scala Console" type="ScalaScriptConsoleRunConfiguration" factoryName="Scala Console" temporary="true">
-      <module name="ScalaForTheImpatientLearning" />
-      <setting name="vmparams4" value="-Djline.terminal=NONE" />
-      <setting name="workingDirectory" value="$PROJECT_DIR$" />
-      <setting name="consoleArgs" value="-usejavacp" />
       <method />
     </configuration>
     <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
@@ -343,6 +328,15 @@
       <option name="CLEAR_LOGCAT" value="false" />
       <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
       <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="0" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="SELECTED_CLOUD_DEVICE_CONFIGURATION_ID" value="0" />
+      <option name="SELECTED_CLOUD_DEVICE_PROJECT_ID" value="" />
+      <option name="IS_VALID_CLOUD_MATRIX_SELECTION" value="false" />
+      <option name="INVALID_CLOUD_MATRIX_SELECTION_ERROR" value="" />
+      <option name="IS_VALID_CLOUD_DEVICE_SELECTION" value="false" />
+      <option name="INVALID_CLOUD_DEVICE_SELECTION_ERROR" value="" />
+      <option name="CLOUD_DEVICE_SERIAL_NUMBER" value="" />
       <method />
     </configuration>
     <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
@@ -364,6 +358,15 @@
       <option name="CLEAR_LOGCAT" value="false" />
       <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
       <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="0" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="SELECTED_CLOUD_DEVICE_CONFIGURATION_ID" value="0" />
+      <option name="SELECTED_CLOUD_DEVICE_PROJECT_ID" value="" />
+      <option name="IS_VALID_CLOUD_MATRIX_SELECTION" value="false" />
+      <option name="INVALID_CLOUD_MATRIX_SELECTION_ERROR" value="" />
+      <option name="IS_VALID_CLOUD_DEVICE_SELECTION" value="false" />
+      <option name="INVALID_CLOUD_DEVICE_SELECTION_ERROR" value="" />
+      <option name="CLOUD_DEVICE_SERIAL_NUMBER" value="" />
       <method />
     </configuration>
     <configuration default="true" type="Applet" factoryName="Applet">
@@ -426,8 +429,58 @@
       <patterns />
       <method />
     </configuration>
+    <configuration default="true" type="JUnitTestDiscovery" factoryName="JUnit Test Discovery" changeList="All">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
     <configuration default="true" type="JarApplication" factoryName="JAR Application">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Java Scratch" factoryName="Java Scratch">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SCRATCH_FILE_ID" value="0" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="ScalaForThePatientLearning" />
       <envs />
       <method />
     </configuration>
@@ -448,7 +501,6 @@
     </configuration>
     <configuration default="true" type="ScalaTestRunConfiguration" factoryName="ScalaTest">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <extension name="scalaCoverage" />
       <module name="" />
       <setting name="path" value="" />
       <setting name="package" value="" />
@@ -464,7 +516,6 @@
     </configuration>
     <configuration default="true" type="Specs2RunConfiguration" factoryName="Specs2">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <extension name="scalaCoverage" />
       <module name="" />
       <setting name="path" value="" />
       <setting name="package" value="" />
@@ -506,9 +557,36 @@
       <listeners />
       <method />
     </configuration>
+    <configuration default="true" type="TestNGTestDiscovery" factoryName="TestNG Test Discovery" changeList="All">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
     <configuration default="true" type="uTestRunConfiguration" factoryName="utest">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <extension name="scalaCoverage" />
       <module name="" />
       <setting name="path" value="" />
       <setting name="package" value="" />
@@ -522,78 +600,20 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="Test" type="Application" factoryName="Application">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="Test" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="ScalaForTheImpatientLearning" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="false" name="chap3_3" type="Application" factoryName="Application">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="chap3.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="chap3.chap3_3" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="ScalaForTheImpatientLearning" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="false" name="chap4_2" type="Application" factoryName="Application">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="chap4.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="chap4.chap4_2" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="ScalaForTheImpatientLearning" />
-      <envs />
-      <method />
-    </configuration>
-    <list size="8">
-      <item index="0" class="java.lang.String" itemvalue="Application.Test" />
-      <item index="1" class="java.lang.String" itemvalue="Application.chap3_3" />
-      <item index="2" class="java.lang.String" itemvalue="Application.chap4_2" />
-      <item index="3" class="java.lang.String" itemvalue="Application.RegexScala" />
-      <item index="4" class="java.lang.String" itemvalue="Application.chap9_8" />
-      <item index="5" class="java.lang.String" itemvalue="Application.chap9_9" />
-      <item index="6" class="java.lang.String" itemvalue="Application.chap9_10" />
-      <item index="7" class="java.lang.String" itemvalue="Scala Console.Scala Console" />
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Application.TestShellWithScala" />
+      <item index="1" class="java.lang.String" itemvalue="Application.RegexScala" />
+      <item index="2" class="java.lang.String" itemvalue="Application.Test (1)" />
+      <item index="3" class="java.lang.String" itemvalue="Application.Test (2)" />
+      <item index="4" class="java.lang.String" itemvalue="Application.Test (3)" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.chap9_10" />
-        <item index="1" class="java.lang.String" itemvalue="Scala Console.Scala Console" />
-        <item index="2" class="java.lang.String" itemvalue="Application.chap9_9" />
-        <item index="3" class="java.lang.String" itemvalue="Application.chap9_8" />
-        <item index="4" class="java.lang.String" itemvalue="Application.RegexScala" />
+        <item index="0" class="java.lang.String" itemvalue="Application.Test (3)" />
+        <item index="1" class="java.lang.String" itemvalue="Application.Test (2)" />
+        <item index="2" class="java.lang.String" itemvalue="Application.Test (1)" />
+        <item index="3" class="java.lang.String" itemvalue="Application.RegexScala" />
+        <item index="4" class="java.lang.String" itemvalue="Application.TestShellWithScala" />
       </list>
     </recent_temporary>
   </component>
@@ -613,307 +633,105 @@
       <option name="number" value="Default" />
       <updated>1449488536802</updated>
     </task>
-    <task id="LOCAL-00001" summary="finish chap3_2.scala&#10;">
-      <created>1449537846849</created>
+    <task id="LOCAL-00001" summary="finish chap8_1 and chap8_2">
+      <created>1449639708847</created>
       <option name="number" value="00001" />
       <option name="project" value="LOCAL" />
-      <updated>1449537846849</updated>
+      <updated>1449639708847</updated>
     </task>
-    <task id="LOCAL-00002" summary="update chap3_2.scala&#10;">
-      <created>1449538079217</created>
+    <task id="LOCAL-00002" summary="finish chap8_2 and update chap8_1">
+      <created>1449640270141</created>
       <option name="number" value="00002" />
       <option name="project" value="LOCAL" />
-      <updated>1449538079217</updated>
+      <updated>1449640270141</updated>
     </task>
-    <task id="LOCAL-00003" summary="update chap3_2.scala and finish chap3_3.scala&#10;">
-      <created>1449540853278</created>
+    <task id="LOCAL-00003" summary="finish chap8_4">
+      <created>1449641186810</created>
       <option name="number" value="00003" />
       <option name="project" value="LOCAL" />
-      <updated>1449540853278</updated>
+      <updated>1449641186810</updated>
     </task>
-    <task id="LOCAL-00004" summary="finish chap3_4.scala&#10;">
-      <created>1449541737568</created>
+    <task id="LOCAL-00004" summary="finish chap8_5">
+      <created>1449650984158</created>
       <option name="number" value="00004" />
       <option name="project" value="LOCAL" />
-      <updated>1449541737568</updated>
+      <updated>1449650984158</updated>
     </task>
-    <task id="LOCAL-00005" summary="finish chap3_5.scala&#10;">
-      <created>1449541887069</created>
+    <task id="LOCAL-00005" summary="finish chap8_6">
+      <created>1449653235460</created>
       <option name="number" value="00005" />
       <option name="project" value="LOCAL" />
-      <updated>1449541887069</updated>
+      <updated>1449653235460</updated>
     </task>
-    <task id="LOCAL-00006" summary="finish chap3_6.scala&#10;">
-      <created>1449542475715</created>
+    <task id="LOCAL-00006" summary="finish chap8_7">
+      <created>1449653703468</created>
       <option name="number" value="00006" />
       <option name="project" value="LOCAL" />
-      <updated>1449542475715</updated>
+      <updated>1449653703468</updated>
     </task>
-    <task id="LOCAL-00007" summary="finish chap3_7,chap3_8,chap3_9 and chap3_10&#10;update chap3_3.scala&#10;">
-      <created>1449548785481</created>
+    <task id="LOCAL-00007" summary="finish chap8_8">
+      <created>1449654530752</created>
       <option name="number" value="00007" />
       <option name="project" value="LOCAL" />
-      <updated>1449548785481</updated>
+      <updated>1449654530752</updated>
     </task>
-    <task id="LOCAL-00008" summary="finish chap4_1&#10;">
-      <created>1449552246633</created>
+    <task id="LOCAL-00008" summary="delete chap8_9">
+      <created>1449656836237</created>
       <option name="number" value="00008" />
       <option name="project" value="LOCAL" />
-      <updated>1449552246633</updated>
+      <updated>1449656836237</updated>
     </task>
-    <task id="LOCAL-00009" summary="finish chap4_2">
-      <created>1449555627493</created>
+    <task id="LOCAL-00009" summary="delete chap11_3">
+      <created>1449823418670</created>
       <option name="number" value="00009" />
       <option name="project" value="LOCAL" />
-      <updated>1449555627493</updated>
+      <updated>1449823418670</updated>
     </task>
-    <task id="LOCAL-00010" summary="finish chap4_3">
-      <created>1449556464438</created>
+    <task id="LOCAL-00010" summary="finish chap11_4">
+      <created>1449825694156</created>
       <option name="number" value="00010" />
       <option name="project" value="LOCAL" />
-      <updated>1449556464438</updated>
+      <updated>1449825694156</updated>
     </task>
-    <task id="LOCAL-00011" summary="finish chap4_4">
-      <created>1449556892389</created>
+    <task id="LOCAL-00011" summary="finish chap11_5">
+      <created>1449827036667</created>
       <option name="number" value="00011" />
       <option name="project" value="LOCAL" />
-      <updated>1449556892389</updated>
+      <updated>1449827036667</updated>
     </task>
-    <task id="LOCAL-00012" summary="finish chap4_5&#10;">
-      <created>1449557245991</created>
-      <option name="number" value="00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1449557245991</updated>
-    </task>
-    <task id="LOCAL-00013" summary="finish chap4_6&#10;">
-      <created>1449557802521</created>
-      <option name="number" value="00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1449557802521</updated>
-    </task>
-    <task id="LOCAL-00014" summary="finish chap4_7">
-      <created>1449558804766</created>
-      <option name="number" value="00014" />
-      <option name="project" value="LOCAL" />
-      <updated>1449558804766</updated>
-    </task>
-    <task id="LOCAL-00015" summary="finish chap4_8">
-      <created>1449559097823</created>
-      <option name="number" value="00015" />
-      <option name="project" value="LOCAL" />
-      <updated>1449559097823</updated>
-    </task>
-    <task id="LOCAL-00016" summary="finish chap4_9">
-      <created>1449559327617</created>
-      <option name="number" value="00016" />
-      <option name="project" value="LOCAL" />
-      <updated>1449559327617</updated>
-    </task>
-    <task id="LOCAL-00017" summary="update chap4_8">
-      <created>1449559414157</created>
-      <option name="number" value="00017" />
-      <option name="project" value="LOCAL" />
-      <updated>1449559414157</updated>
-    </task>
-    <task id="LOCAL-00018" summary="update chap4_10">
-      <created>1449559550354</created>
-      <option name="number" value="00018" />
-      <option name="project" value="LOCAL" />
-      <updated>1449559550354</updated>
-    </task>
-    <task id="LOCAL-00019" summary="update chap5_1">
-      <created>1449561382853</created>
-      <option name="number" value="00019" />
-      <option name="project" value="LOCAL" />
-      <updated>1449561382853</updated>
-    </task>
-    <task id="LOCAL-00020" summary="update chap5_2">
-      <created>1449561862386</created>
-      <option name="number" value="00020" />
-      <option name="project" value="LOCAL" />
-      <updated>1449561862386</updated>
-    </task>
-    <task id="LOCAL-00021" summary="update chap5_1">
-      <created>1449561933312</created>
-      <option name="number" value="00021" />
-      <option name="project" value="LOCAL" />
-      <updated>1449561933312</updated>
-    </task>
-    <task id="LOCAL-00022" summary="update chap5_1">
-      <created>1449563115169</created>
-      <option name="number" value="00022" />
-      <option name="project" value="LOCAL" />
-      <updated>1449563115169</updated>
-    </task>
-    <task id="LOCAL-00023" summary="update chap5_3">
-      <created>1449563605943</created>
-      <option name="number" value="00023" />
-      <option name="project" value="LOCAL" />
-      <updated>1449563605943</updated>
-    </task>
-    <task id="LOCAL-00024" summary="finish chap5_4">
-      <created>1449566886335</created>
-      <option name="number" value="00024" />
-      <option name="project" value="LOCAL" />
-      <updated>1449566886335</updated>
-    </task>
-    <task id="LOCAL-00025" summary="update chap5_3">
-      <created>1449566922490</created>
-      <option name="number" value="00025" />
-      <option name="project" value="LOCAL" />
-      <updated>1449566922490</updated>
-    </task>
-    <task id="LOCAL-00026" summary="finish chap5_6">
-      <created>1449567749044</created>
-      <option name="number" value="00026" />
-      <option name="project" value="LOCAL" />
-      <updated>1449567749044</updated>
-    </task>
-    <task id="LOCAL-00027" summary="finish chap5_8">
-      <created>1449568588043</created>
-      <option name="number" value="00027" />
-      <option name="project" value="LOCAL" />
-      <updated>1449568588043</updated>
-    </task>
-    <task id="LOCAL-00028" summary="finish chap5_10">
-      <created>1449568910875</created>
-      <option name="number" value="00028" />
-      <option name="project" value="LOCAL" />
-      <updated>1449568910875</updated>
-    </task>
-    <task id="LOCAL-00029" summary="delete Test.scala&#10;">
-      <created>1449582321698</created>
-      <option name="number" value="00029" />
-      <option name="project" value="LOCAL" />
-      <updated>1449582321698</updated>
-    </task>
-    <task id="LOCAL-00030" summary="finish chap6_1 and chap6_2">
-      <created>1449620743589</created>
-      <option name="number" value="00030" />
-      <option name="project" value="LOCAL" />
-      <updated>1449620743589</updated>
-    </task>
-    <task id="LOCAL-00031" summary="finish chap6_1 and chap6_2">
-      <created>1449620774702</created>
-      <option name="number" value="00031" />
-      <option name="project" value="LOCAL" />
-      <updated>1449620774702</updated>
-    </task>
-    <task id="LOCAL-00032" summary="finish chap6_3">
-      <created>1449621629786</created>
-      <option name="number" value="00032" />
-      <option name="project" value="LOCAL" />
-      <updated>1449621629786</updated>
-    </task>
-    <task id="LOCAL-00033" summary="update chap6_3">
-      <created>1449622113616</created>
-      <option name="number" value="00033" />
-      <option name="project" value="LOCAL" />
-      <updated>1449622113616</updated>
-    </task>
-    <task id="LOCAL-00034" summary="finish chap6_4">
-      <created>1449622131275</created>
-      <option name="number" value="00034" />
-      <option name="project" value="LOCAL" />
-      <updated>1449622131275</updated>
-    </task>
-    <task id="LOCAL-00035" summary="finish chap6_5">
-      <created>1449624636297</created>
-      <option name="number" value="00035" />
-      <option name="project" value="LOCAL" />
-      <updated>1449624636297</updated>
-    </task>
-    <task id="LOCAL-00036" summary="update chap6_5">
-      <created>1449624675096</created>
-      <option name="number" value="00036" />
-      <option name="project" value="LOCAL" />
-      <updated>1449624675096</updated>
-    </task>
-    <task id="LOCAL-00037" summary="update chap6_6">
-      <created>1449625387346</created>
-      <option name="number" value="00037" />
-      <option name="project" value="LOCAL" />
-      <updated>1449625387346</updated>
-    </task>
-    <task id="LOCAL-00038" summary="update chap6_7 and chap_8">
-      <created>1449625727685</created>
-      <option name="number" value="00038" />
-      <option name="project" value="LOCAL" />
-      <updated>1449625727685</updated>
-    </task>
-    <task id="LOCAL-00039" summary="update readme">
-      <created>1449711084267</created>
-      <option name="number" value="00039" />
-      <option name="project" value="LOCAL" />
-      <updated>1449711084267</updated>
-    </task>
-    <task id="LOCAL-00040" summary="finish chap9_7">
-      <created>1449720724611</created>
-      <option name="number" value="00040" />
-      <option name="project" value="LOCAL" />
-      <updated>1449720724611</updated>
-    </task>
-    <task id="LOCAL-00041" summary="finish chap9_8">
-      <created>1449721643285</created>
-      <option name="number" value="00041" />
-      <option name="project" value="LOCAL" />
-      <updated>1449721643285</updated>
-    </task>
-    <task id="LOCAL-00042" summary="finish chap9_9">
-      <created>1449722760111</created>
-      <option name="number" value="00042" />
-      <option name="project" value="LOCAL" />
-      <updated>1449722760111</updated>
-    </task>
-    <task id="LOCAL-00043" summary="finish chap9_10">
-      <created>1449724435656</created>
-      <option name="number" value="00043" />
-      <option name="project" value="LOCAL" />
-      <updated>1449724435656</updated>
-    </task>
-    <task id="LOCAL-00044" summary="update">
-      <created>1449724494547</created>
-      <option name="number" value="00044" />
-      <option name="project" value="LOCAL" />
-      <updated>1449724494547</updated>
-    </task>
-    <task id="LOCAL-00045" summary="delete">
-      <created>1449750609483</created>
-      <option name="number" value="00045" />
-      <option name="project" value="LOCAL" />
-      <updated>1449750609483</updated>
-    </task>
-    <option name="localTasksCounter" value="46" />
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="-8" y="-8" width="1696" height="1026" extended-state="6" />
     <editor active="false" />
     <layout>
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3006536" sideWeight="0.5030257" order="10" side_tool="true" content_ui="tabs" />
-      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32980332" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.30882353" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.22919819" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24962178" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3267974" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.23856209" sideWeight="0.4969743" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3281075" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3281075" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3281075" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24816626" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39977604" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.md" />
   </component>
   <component name="Vcs.Log.UiProperties">
     <option name="RECENTLY_FILTERED_USER_GROUPS">
@@ -927,32 +745,18 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="update chap4_8" />
-    <MESSAGE value="update chap4_10" />
-    <MESSAGE value="update chap5_2" />
-    <MESSAGE value="update chap5_1" />
-    <MESSAGE value="finish chap5_4" />
-    <MESSAGE value="update chap5_3" />
-    <MESSAGE value="finish chap5_6" />
-    <MESSAGE value="finish chap5_8" />
-    <MESSAGE value="finish chap5_10" />
-    <MESSAGE value="delete Test.scala&#10;" />
-    <MESSAGE value="finish chap6_1 and chap6_2" />
-    <MESSAGE value="finish chap6_3" />
-    <MESSAGE value="update chap6_3" />
-    <MESSAGE value="finish chap6_4" />
-    <MESSAGE value="finish chap6_5" />
-    <MESSAGE value="update chap6_5" />
-    <MESSAGE value="update chap6_6" />
-    <MESSAGE value="update chap6_7 and chap_8" />
-    <MESSAGE value="update readme" />
-    <MESSAGE value="finish chap9_7" />
-    <MESSAGE value="finish chap9_8" />
-    <MESSAGE value="finish chap9_9" />
-    <MESSAGE value="finish chap9_10" />
-    <MESSAGE value="update" />
-    <MESSAGE value="delete" />
-    <option name="LAST_COMMIT_MESSAGE" value="delete" />
+    <MESSAGE value="finish chap8_1 and chap8_2" />
+    <MESSAGE value="finish chap8_2 and update chap8_1" />
+    <MESSAGE value="finish chap8_4" />
+    <MESSAGE value="finish chap8_5" />
+    <MESSAGE value="finish chap8_6" />
+    <MESSAGE value="finish chap8_7" />
+    <MESSAGE value="finish chap8_8" />
+    <MESSAGE value="delete chap8_9" />
+    <MESSAGE value="delete chap11_3" />
+    <MESSAGE value="finish chap11_4" />
+    <MESSAGE value="finish chap11_5" />
+    <option name="LAST_COMMIT_MESSAGE" value="finish chap11_5" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -963,364 +767,371 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/chap3/chap3_9.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.23419204">
-          <caret line="5" column="3" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files (x86)/scala/lib/scala-library.jar!/scala/collection/mutable/ResizableArray.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.76942354">
-          <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files (x86)/scala/lib/scala-library.jar!/scala/collection/mutable/ArrayBuffer.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.76942354">
-          <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chap3/chap3_8.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.09367681">
-          <caret line="2" column="3" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0/src.zip!/java/util/Scanner.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.3325527">
-          <caret line="1356" column="18" selection-start-line="1356" selection-start-column="18" selection-end-line="1356" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chap4/words.txt">
+    <entry file="file://$PROJECT_DIR$/src/chap1/chap1_1.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="2" column="9" selection-start-line="2" selection-start-column="9" selection-end-line="2" selection-end-column="9" />
+          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files (x86)/scala/lib/scala-library.jar!/scala/collection/MapLike.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.35774648">
-          <caret line="10" column="6" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files (x86)/scala/lib/scala-library.jar!/scala/Predef.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.35774648">
-          <caret line="8" column="6" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files (x86)/scala/lib/scala-library.jar!/scala/Int.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.053908356">
-          <caret line="1" column="21" selection-start-line="1" selection-start-column="21" selection-end-line="1" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0/src.zip!/java/lang/String.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.33159268">
-          <caret line="2407" column="20" selection-start-line="2407" selection-start-column="20" selection-end-line="2407" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chap4/chap4_4.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="12" column="42" selection-start-line="10" selection-start-column="8" selection-end-line="12" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chap4/chap4_2.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="13" column="60" selection-start-line="13" selection-start-column="39" selection-end-line="13" selection-end-column="60" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chap4/chap4_5.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="16" column="9" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chap4/chap4_6.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="12" column="54" selection-start-line="12" selection-start-column="54" selection-end-line="12" selection-end-column="54" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chap4/chap4_7.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="10" column="16" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chap4/chap4_8.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="4" column="51" selection-start-line="4" selection-start-column="51" selection-end-line="4" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chap4/chap4_9.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files (x86)/scala/lib/scala-library.jar!/scala/collection/IndexedSeqOptimized.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.35849056">
-          <caret line="12" column="15" selection-start-line="12" selection-start-column="15" selection-end-line="12" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chap4/chap4_10.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.09546539">
-          <caret line="2" column="3" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chap4/chap4_1.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.40609136">
-          <caret line="8" column="20" selection-start-line="8" selection-start-column="8" selection-end-line="9" selection-end-column="59" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chap4/chap4_3.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="15" column="9" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chap5/chap5_8.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chap5/chap5_6.scala">
+    <entry file="file://$PROJECT_DIR$/src/chap1/chap1_3.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="7" column="35" selection-start-line="7" selection-start-column="35" selection-end-line="7" selection-end-column="35" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/chap5/chap5_4.scala">
+    <entry file="file://$PROJECT_DIR$/src/chap1/chap1_4.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="20" column="5" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
+          <caret line="4" column="18" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/chap5/chap5_3.scala">
+    <entry file="file://$PROJECT_DIR$/src/chap1/chap1_5.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+          <caret line="8" column="56" selection-start-line="8" selection-start-column="56" selection-end-line="8" selection-end-column="56" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/chap5/chap5_2.scala">
+    <entry file="file://$PROJECT_DIR$/src/chap1/chap1_6.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+          <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/chap5/chap5_1.scala">
+    <entry file="file://$PROJECT_DIR$/src/chap1/chap1_8.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chap5/chap5_10.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chap6/chap6_1/Conversions.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.13722126">
-          <caret line="4" column="35" selection-start-line="4" selection-start-column="35" selection-end-line="4" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chap6/chap6_2/MilesConversions.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.38186157">
-          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chap6/chap6_2/GallonsConversions.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.09546539">
-          <caret line="2" column="4" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chap6/chap6_2/InchesConversions.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.28639618">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chap6/chap6_2/UnitConversion.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="3" column="34" selection-start-line="3" selection-start-column="34" selection-end-line="3" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chap6/chap6_3/Origin.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="7" column="2" selection-start-line="7" selection-start-column="2" selection-end-line="7" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chap6/chap6_4/Point.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="9" column="26" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chap6/chap6_5/PrintArgs.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="6" column="3" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chap6/chap6_6/Poker.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="10" column="22" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chap6/chap6_7/Poker.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.19093078">
-          <caret line="4" column="23" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chap6/chap6_8/RGB.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.20547946">
-          <caret line="6" column="41" selection-start-line="6" selection-start-column="41" selection-end-line="6" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider editor-type-id="MarkdownPreviewEditor">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.07233273">
           <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/chap9/chap9_7/chap9_7.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.23866348">
-          <caret line="5" column="20" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chap9/chap9_7/source.txt">
+    <entry file="file://$PROJECT_DIR$/src/chap1/chap1_9.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="40" selection-start-line="0" selection-start-column="40" selection-end-line="0" selection-end-column="40" />
+          <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files (x86)/scala/lib/scala-library.jar!/scala/collection/immutable/StringLike.class">
+    <entry file="file://$PROJECT_DIR$/src/chap1/chap1_10.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="1.5841584">
-          <caret line="24" column="6" selection-start-line="24" selection-start-column="6" selection-end-line="24" selection-end-column="6" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/RegexScala.scala">
+    <entry file="file://$PROJECT_DIR$/src/chap2/chap2_2.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.42296073">
-          <caret line="7" column="33" selection-start-line="7" selection-start-column="33" selection-end-line="7" selection-end-column="33" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/chap9/chap9_8/chap9_8.scala">
+    <entry file="file://$PROJECT_DIR$/src/chap2/chap2_3.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5166163">
-          <caret line="11" column="20" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
+        <state vertical-scroll-proportion="0.09259259">
+          <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Test.scala">
+    <entry file="file://$PROJECT_DIR$/src/chap1/chap1_7.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.25377643">
-          <caret line="5" column="73" selection-start-line="5" selection-start-column="35" selection-end-line="5" selection-end-column="73" />
+        <state vertical-scroll-proportion="0.023148147">
+          <caret line="1" column="19" selection-start-line="1" selection-start-column="19" selection-end-line="1" selection-end-column="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/chap9/chap9_9/chap9_9.scala">
+    <entry file="file://$PROJECT_DIR$/src/chap1/chap1_2.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.27459955">
-          <caret line="6" column="32" selection-start-line="6" selection-start-column="32" selection-end-line="6" selection-end-column="32" />
+        <state vertical-scroll-proportion="0.09259259">
+          <caret line="4" column="33" selection-start-line="4" selection-start-column="33" selection-end-line="4" selection-end-column="33" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/chap9/chap9_10/result.obj">
+    <entry file="file://$PROJECT_DIR$/src/chap2/chap2_1.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.1388889">
+          <caret line="6" column="7" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chap2/chap2_4.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3508772">
+          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chap2/chap2_10.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3508772">
+          <caret line="10" column="38" selection-start-line="10" selection-start-column="38" selection-end-line="10" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chap2/chap2_5.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.31578946">
+          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chap3/chap3_1.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3468208">
+          <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chap8/chap8_1/CheckingAccount.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.20833333">
+          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chap8/chap8_2/SavingAccount.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="30" column="0" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chap8/chap8_4/SimpleItem.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chap8/chap8_4/Bundle.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="25" column="0" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chap8/chap8_2/BankAccount.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.11574074">
+          <caret line="5" column="6" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chap8/chap8_5/Start.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.20833333">
+          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chap8/chap8_5/LabeledPoint.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.1388889">
+          <caret line="6" column="53" selection-start-line="6" selection-start-column="53" selection-end-line="6" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chap8/chap8_4/Item.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.20833333">
+          <caret line="9" column="55" selection-start-line="9" selection-start-column="55" selection-end-line="9" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chap8/chap8_5/Point.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.1388889">
+          <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chap8/chap8_6/Shape.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="6" column="21" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chap8/chap8_6/Rectangle.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="7" column="58" selection-start-line="7" selection-start-column="58" selection-end-line="7" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chap8/chap8_6/Circle.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chap8/chap8_6/Point.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/chap9/chap9_1/chap9_1.scala">
+    <entry file="file://$PROJECT_DIR$/src/chap8/chap8_7/Square.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.36613274">
-          <caret line="8" column="7" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="14" column="70" selection-start-line="14" selection-start-column="70" selection-end-line="14" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0/src.zip!/java/awt/Rectangle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33333334">
+          <caret line="184" column="11" selection-start-line="184" selection-start-column="11" selection-end-line="184" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chap8/chap8_7/Start.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.23148148">
+          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chap8/chap8_8/Person.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chap8/chap8_8/SecretAgent.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chap8/chap8_8/Command.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.46296296">
+          <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chap8/chap8_1/BankAccount.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.11574074">
+          <caret line="5" column="42" selection-start-line="5" selection-start-column="42" selection-end-line="5" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chap6/chap6_1/Conversions.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.10526316">
+          <caret line="3" column="14" selection-start-line="3" selection-start-column="12" selection-end-line="3" selection-end-column="14" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/chap9/chap9_10/chap9_10.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="8" column="35" selection-start-line="8" selection-start-column="35" selection-end-line="8" selection-end-column="35" />
+        <state vertical-scroll-proportion="0.1618497">
+          <caret line="7" column="7" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/RegexScala.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.23121387">
+          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/chap9/chap9_10/Person.scala">
+    <entry file="file://$PROJECT_DIR$/src/TestShellWithScala.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5831904">
-          <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.1618497">
+          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.046296295">
+          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files (x86)/scala/lib/scala-library.jar!/scala/App.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.023894863">
+          <caret line="1" column="6" selection-start-line="1" selection-start-column="6" selection-end-line="1" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Test.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="8" column="23" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chap11/chap11_3/Fraction.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chap11/chap11_3/Test.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chap11/chap11_4/Money.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.46296296">
+          <caret line="20" column="74" selection-start-line="20" selection-start-column="74" selection-end-line="20" selection-end-column="74" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ScalaForTheImpatientLearning.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.25462964">
+          <caret line="11" column="9" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chap11/chap11_5/Test.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.18518518">
+          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chap11/chap11_5/Table.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5324074">
+          <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chap11/chap11_4/Test.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.30092594">
+          <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -1354,7 +1165,7 @@
       </state>
       <state key="GlobalLibrariesConfigurable.UI">
         <settings>
-          <last-edited>scala-sdk-2.11.7</last-edited>
+          <last-edited>scala-sdk-2.11.7 (2)</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -1378,7 +1189,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>ScalaForThePatientLearning</last-edited>
+          <last-edited>ScalaForTheImpatientLearning</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
