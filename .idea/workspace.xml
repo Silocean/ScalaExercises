@@ -4,8 +4,8 @@
     <bookmark url="file://$PROJECT_DIR$/src/chap8/chap8_6/Shape.scala" line="6" mnemonic="9" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="69908838-a0aa-4815-a861-a7c5066eccb8" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chap_13/chap13_7.scala" />
+    <list default="true" id="69908838-a0aa-4815-a861-a7c5066eccb8" name="Default" comment="" />
+    <list id="70a5c553-d01e-4744-9ba2-62a94e249f14" name="New changelist" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Test.scala" afterPath="$PROJECT_DIR$/src/Test.scala" />
     </list>
@@ -762,6 +762,7 @@
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="69908838-a0aa-4815-a861-a7c5066eccb8" name="Default" comment="" />
+      <changelist id="70a5c553-d01e-4744-9ba2-62a94e249f14" name="New changelist" comment="" />
       <created>1449488536802</created>
       <option name="number" value="Default" />
       <updated>1449488536802</updated>
@@ -952,7 +953,13 @@
       <option name="project" value="LOCAL" />
       <updated>1452858996713</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="finish chap13_7&#10;(cherry picked from commit 47a5610)">
+      <created>1452859843010</created>
+      <option name="number" value="00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1452859843010</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -1019,7 +1026,8 @@
     <MESSAGE value="finish chap13_6" />
     <MESSAGE value="update&#10;(cherry picked from commit 47a5610)" />
     <MESSAGE value="finish chap13_8&#10;(cherry picked from commit 47a5610)" />
-    <option name="LAST_COMMIT_MESSAGE" value="finish chap13_8&#10;(cherry picked from commit 47a5610)" />
+    <MESSAGE value="finish chap13_7&#10;(cherry picked from commit 47a5610)" />
+    <option name="LAST_COMMIT_MESSAGE" value="finish chap13_7&#10;(cherry picked from commit 47a5610)" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />

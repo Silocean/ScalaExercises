@@ -17,6 +17,7 @@ object Test extends App {
     def f(t1: Tuple2[Double, Double], t2: Tuple2[Double, Double]) = {
         (t1._1 + t2._1, t1._2 + t2._2)
     }
-
     println(seq.reduce((a, b) => f(a, b)))
+
+    println(seq.reduce((p, q) => (p._1 + q._1, p._2 + q._2)))
 }
