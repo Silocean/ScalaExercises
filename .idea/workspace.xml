@@ -4,10 +4,13 @@
     <bookmark url="file://$PROJECT_DIR$/src/chap8/chap8_6/Shape.scala" line="6" mnemonic="9" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="69908838-a0aa-4815-a861-a7c5066eccb8" name="Default" comment="" />
-    <list id="70a5c553-d01e-4744-9ba2-62a94e249f14" name="New changelist" comment="">
+    <list default="true" id="69908838-a0aa-4815-a861-a7c5066eccb8" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chap_14/chap14_2.scala" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/ScalaForTheImpatientLearning/Test$$anonfun$1.class" afterPath="$PROJECT_DIR$/out/production/ScalaForTheImpatientLearning/Test$$anonfun$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/ScalaForTheImpatientLearning/Test$.class" afterPath="$PROJECT_DIR$/out/production/ScalaForTheImpatientLearning/Test$.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/ScalaForTheImpatientLearning/Test$delayedInit$body.class" afterPath="$PROJECT_DIR$/out/production/ScalaForTheImpatientLearning/Test$delayedInit$body.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/ScalaForTheImpatientLearning/Test.class" afterPath="$PROJECT_DIR$/out/production/ScalaForTheImpatientLearning/Test.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Test.scala" afterPath="$PROJECT_DIR$/src/Test.scala" />
     </list>
     <ignored path="ScalaForThePatientLearning.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -29,51 +32,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="chap13_5.scala" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/chap_13/chap13_5.scala">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Test.scala" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Test.scala">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="chap13_6.scala" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/chap_13/chap13_6.scala">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="10" column="55" selection-start-line="10" selection-start-column="55" selection-end-line="10" selection-end-column="55" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="chap13_8.scala" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/chap_13/chap13_8.scala">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="chap13_7.scala" pinned="false" current-in-tab="true">
+      <file leaf-file-name="chap13_7.scala" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/chap_13/chap13_7.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.21212122">
-              <caret line="7" column="35" selection-start-line="7" selection-start-column="35" selection-end-line="7" selection-end-column="35" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="chap14_2.scala" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/chap_14/chap14_2.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.27272728">
+              <caret line="9" column="22" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
               <folding />
             </state>
           </provider>
@@ -105,7 +78,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/chap1/chap1_3.txt" />
         <option value="$PROJECT_DIR$/src/chap1/chap1_4.txt" />
         <option value="$PROJECT_DIR$/src/chap1/chap1_5.txt" />
         <option value="$PROJECT_DIR$/src/chap1/chap1_6.txt" />
@@ -156,6 +128,7 @@
         <option value="$PROJECT_DIR$/src/chap_13/chap13_8.scala" />
         <option value="$PROJECT_DIR$/src/chap_13/chap13_7.scala" />
         <option value="$PROJECT_DIR$/src/Test.scala" />
+        <option value="$PROJECT_DIR$/src/chap_14/chap14_2.scala" />
       </list>
     </option>
   </component>
@@ -249,7 +222,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="chap_13" />
+              <option name="myItemId" value="chap_14" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -278,27 +251,7 @@
       <recent name="D:\IntellijWorkplace\ScalaForTheImpatientLearning\src\chap1" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Test">
-    <configuration default="false" name="chap13_4" type="Application" factoryName="Application" temporary="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="chap_13.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="chap_13.chap13_4" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="ScalaForTheImpatientLearning" />
-      <envs />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Application.chap14_2">
     <configuration default="false" name="chap13_6" type="Application" factoryName="Application" temporary="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -362,6 +315,26 @@
     <configuration default="false" name="Test" type="Application" factoryName="Application" temporary="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" value="Test" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="ScalaForTheImpatientLearning" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="chap14_2" type="Application" factoryName="Application" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="chap_14.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="chap_14.chap14_2" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -734,19 +707,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.chap13_4" />
-      <item index="1" class="java.lang.String" itemvalue="Application.chap13_6" />
-      <item index="2" class="java.lang.String" itemvalue="Application.chap13_8" />
-      <item index="3" class="java.lang.String" itemvalue="Application.chap13_7" />
-      <item index="4" class="java.lang.String" itemvalue="Application.Test" />
+      <item index="0" class="java.lang.String" itemvalue="Application.chap13_6" />
+      <item index="1" class="java.lang.String" itemvalue="Application.chap13_8" />
+      <item index="2" class="java.lang.String" itemvalue="Application.chap13_7" />
+      <item index="3" class="java.lang.String" itemvalue="Application.Test" />
+      <item index="4" class="java.lang.String" itemvalue="Application.chap14_2" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.Test" />
-        <item index="1" class="java.lang.String" itemvalue="Application.chap13_7" />
-        <item index="2" class="java.lang.String" itemvalue="Application.chap13_8" />
-        <item index="3" class="java.lang.String" itemvalue="Application.chap13_6" />
-        <item index="4" class="java.lang.String" itemvalue="Application.chap13_4" />
+        <item index="0" class="java.lang.String" itemvalue="Application.chap14_2" />
+        <item index="1" class="java.lang.String" itemvalue="Application.Test" />
+        <item index="2" class="java.lang.String" itemvalue="Application.chap13_7" />
+        <item index="3" class="java.lang.String" itemvalue="Application.chap13_8" />
+        <item index="4" class="java.lang.String" itemvalue="Application.chap13_6" />
       </list>
     </recent_temporary>
   </component>
@@ -762,7 +735,7 @@
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="69908838-a0aa-4815-a861-a7c5066eccb8" name="Default" comment="" />
-      <changelist id="70a5c553-d01e-4744-9ba2-62a94e249f14" name="New changelist" comment="" />
+      <changelist id="" name="New changelist" comment="" />
       <created>1449488536802</created>
       <option name="number" value="Default" />
       <updated>1449488536802</updated>
@@ -959,7 +932,13 @@
       <option name="project" value="LOCAL" />
       <updated>1452859843010</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="update Test.scala">
+      <created>1452859881059</created>
+      <option name="number" value="00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1452859881059</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -1019,7 +998,6 @@
     <MESSAGE value="finish chap11_5" />
     <MESSAGE value="change version of scala to 2.10.x" />
     <MESSAGE value="update chap13_1" />
-    <MESSAGE value="update Test.scala" />
     <MESSAGE value="update chap_13_5" />
     <MESSAGE value="update" />
     <MESSAGE value="finish chap13_4" />
@@ -1027,7 +1005,8 @@
     <MESSAGE value="update&#10;(cherry picked from commit 47a5610)" />
     <MESSAGE value="finish chap13_8&#10;(cherry picked from commit 47a5610)" />
     <MESSAGE value="finish chap13_7&#10;(cherry picked from commit 47a5610)" />
-    <option name="LAST_COMMIT_MESSAGE" value="finish chap13_7&#10;(cherry picked from commit 47a5610)" />
+    <MESSAGE value="update Test.scala" />
+    <option name="LAST_COMMIT_MESSAGE" value="update Test.scala" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1038,13 +1017,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/chap2/chap2_10.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.3508772">
-          <caret line="10" column="38" selection-start-line="10" selection-start-column="38" selection-end-line="10" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/chap2/chap2_5.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.31578946">
@@ -1362,14 +1334,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/chap_13/chap13_8.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://C:/Program Files (x86)/scala/src/scala-library-src.jar!/scala/Function.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.27272728">
@@ -1386,26 +1350,42 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/chap_13/chap13_5.scala">
+    <entry file="file://$PROJECT_DIR$/src/Test.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <caret line="21" column="61" selection-start-line="21" selection-start-column="61" selection-end-line="21" selection-end-column="61" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Test.scala">
+    <entry file="file://$PROJECT_DIR$/src/chap_13/chap13_8.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.27272728">
+          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chap_13/chap13_5.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5151515">
+          <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/chap_13/chap13_7.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.21212122">
-          <caret line="7" column="35" selection-start-line="7" selection-start-column="35" selection-end-line="7" selection-end-column="35" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chap_14/chap14_2.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.27272728">
+          <caret line="9" column="22" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
           <folding />
         </state>
       </provider>
