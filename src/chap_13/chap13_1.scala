@@ -12,7 +12,8 @@ object chap13_1 extends App {
         var i = 0
         str.foreach {
             c => map.get(c) match {
-                case Some(result) => map(c) = result + i
+                case Some(result) => result += i
+                // case Some(result) => map(c) = result + i
                 case None => map += (c -> mutable.SortedSet {
                     i
                 })
