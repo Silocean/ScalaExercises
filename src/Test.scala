@@ -37,11 +37,16 @@ object Test extends App {
     new util.ArrayList[String]()
     */
 
+    /*
     class Pair[T <% Comparable[T]](val first: T, val second: T) {
         def smaller = if (first.compareTo(second) < 0) first else second
     }
 
     println(new Pair[String]("Snow", "John").smaller)
     println(new Pair[Int](2, 3).smaller)
+    */
+
+    val (a, b) = BigInt(10) /% 3
+    println((a, b))
 
 }
