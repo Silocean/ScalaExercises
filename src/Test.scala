@@ -1,4 +1,4 @@
-import java.util
+
 
 /**
   * Created by Silocean on 2015-12-09.
@@ -45,7 +45,7 @@ object Test extends App {
     println(new Pair[String]("Snow", "John").smaller)
     println(new Pair[Int](2, 3).smaller)
     */
-
+o
     val (a, b) = BigInt(10) /% 3
     println((a, b))
 
