@@ -4,6 +4,7 @@ import java.util
   * Created by Silocean on 2015-12-09.
   */
 object Test extends App {
+
     /*
     val source = Source.fromURL("http://voice.hupu.com/nba/1981023.html", "utf-8")
     for (line <- source.getLines()) println(line)*/
@@ -29,10 +30,18 @@ object Test extends App {
     println(seq.reduce((p, q) => (p._1 + q._1, p._2 + q._2)))
     */
 
+    /*
     val doc = <html><head>Scala Programming</head><body>...</body></html>
     val item = <li>Fred</li><li>John</li>
 
     new util.ArrayList[String]()
+    */
 
+    class Pair[T <% Comparable[T]](val first: T, val second: T) {
+        def smaller = if (first.compareTo(second) < 0) first else second
+    }
+
+    println(new Pair[String]("Snow", "John").smaller)
+    println(new Pair[Int](2, 3).smaller)
 
 }
