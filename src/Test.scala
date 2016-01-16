@@ -49,4 +49,8 @@ object Test extends App {
     val (a, b) = BigInt(10) /% 3
     println((a, b))
 
+    val arr = Array(1, 2, 3, 4, 5)
+    val Array(first, second, _*) = arr
+    println(first)
+
 }
