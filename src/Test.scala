@@ -5,6 +5,7 @@ import scala.io.Source
   */
 object Test extends App {
 
+    /*
     val source = Source.fromURL("http://voice.hupu.com/nba/1981023.html", "utf-8")
     for (line <- source.getLines()) println(line)
     // val source = Source.stdin
@@ -33,8 +34,6 @@ object Test extends App {
     </html>
     val item = <li>Fred</li> <li>John</li>
 
-    new java.util.ArrayList[String]()
-
     class Pair[T <% Comparable[T]](val first: T, val second: T) {
         def smaller = if (first.compareTo(second) < 0) first else second
     }
@@ -48,5 +47,5 @@ object Test extends App {
     val arr = Array(1, 2, 3, 4, 5)
     val Array(first, second, _*) = arr
     println(first)
-
+    */
 }
