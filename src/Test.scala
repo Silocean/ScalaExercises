@@ -48,4 +48,5 @@ object Test extends App {
     val Array(first, second, _*) = arr
     println(first)
     */
+
 }
