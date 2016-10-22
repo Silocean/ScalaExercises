@@ -1,8 +1,0 @@
-scala> "crazy" * 3
-res6: String = crazycrazycrazy
-
-----------------------------------------------------
-StringOps中有如下方法描述：
-
-def *(n: Int): String
-    Return the current string concatenated n times.

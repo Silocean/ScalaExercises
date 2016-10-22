@@ -1,3 +1,0 @@
-scala> 3.
-%   *   -   >    >>    ^              isInstanceOf   toChar     toFloat   toLong    toString   unary_-   |
-&   +   /   >=   >>>   asInstanceOf   toByte         toDouble   toInt     toShort   unary_+    unary_~

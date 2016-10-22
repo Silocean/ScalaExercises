@@ -1,3 +1,0 @@
-this is chap4_2 test file
-hello scala
-hello ENG

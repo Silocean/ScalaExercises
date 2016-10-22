@@ -1,2 +1,0 @@
-scala> BigInt(scala.util.Random.nextInt).toString(36)
-res11: String = -c50fva

@@ -1,8 +1,0 @@
-scala> 1+3
-res5: Int = 4
-
-scala> res5 = 0
-<console>:15: error: reassignment to val
-       res5 = 0
-            ^
-val是不可变的，而var是可变的，从上述实验可看出res变量是val
