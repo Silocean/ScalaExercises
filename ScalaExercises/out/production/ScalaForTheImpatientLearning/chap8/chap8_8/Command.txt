@@ -1,0 +1,20 @@
+C:\Users\Silocean\Desktop {git}
+{lamb} javap -private Person
+Compiled from "T.scala"
+public class Person {
+  private final java.lang.String name;
+  public java.lang.String name();
+  public java.lang.String toString();
+  public Person(java.lang.String);
+}
+
+C:\Users\Silocean\Desktop {git}
+{lamb} javap -private SecretAgent
+Compiled from "T.scala"
+public class SecretAgent extends Person {
+  private final java.lang.String name;
+  private final java.lang.String toString;
+  public java.lang.String name();
+  public java.lang.String toString();
+  public SecretAgent(java.lang.String);
+}

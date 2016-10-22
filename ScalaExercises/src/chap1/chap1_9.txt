@@ -1,0 +1,16 @@
+取字符串首字符：
+scala> "hello"(0)
+res18: Char = h
+
+scala> "hello".charAt(0)
+res19: Char = h
+
+scala> "hello".take(1)
+res20: String = h
+
+取字符串尾字符：
+scala> "hello".reverse(0)
+res3: Char = o
+
+scala> "hello".takeRight(1)
+res4: String = o
