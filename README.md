@@ -1,2 +1,2 @@
-# ScalaForTheImpatientLearning
-my exercise for 《Scala for the Impatient》
+# ScalaExercises
+exercises for 《Scala for the Impatient》
