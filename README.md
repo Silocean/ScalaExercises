@@ -1,2 +1,2 @@
-# JustForFun
-Some little programs I writed just for fun.
+# ScalaExercises
+exercises for 《Scala for the Impatient》
