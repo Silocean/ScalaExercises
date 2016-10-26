@@ -6,7 +6,7 @@ import java.io.{FileInputStream, ObjectInputStream, FileOutputStream, ObjectOutp
  * Created by Tracy on 2015-12-10.
  */
 object chap9_10 extends App {
-    val p1 = new Person("siyunfei")
+    val p1 = new Person("name")
     val p2 = new Person("Tracy")
     val p3 = new Person("John")
     p1.addFriend(p2)
